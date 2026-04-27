@@ -3,7 +3,7 @@ import json
 
 print("Memulai pengujian API...")
 
-url = "http://127.0.0.1:5000/prediksi"
+url = "https://klasifikasi-penyakit-production.up.railway.app/prediksi"
 
 gejala_list = [
     "sesak napas, batuk, mengi",

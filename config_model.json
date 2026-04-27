@@ -1,0 +1,8 @@
+{
+  "label_mapping": {
+    "Diabetes": "Diabetes",
+    "Hypertension": "Hipertensi",
+    "Bronchial Asthma": "Asma",
+    "Paralysis (brain hemorrhage)": "Stroke"
+  }
+}

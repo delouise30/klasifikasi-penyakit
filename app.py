@@ -76,6 +76,15 @@ KAMUS = {
     'mual muntah': 'vomiting',
     'sering haus': 'polydipsia',
     'banyak minum': 'polydipsia',
+    'nyeri sendi': 'swelling joints',
+    'sendi bengkak': 'swelling joints',
+    'bengkak sendi': 'swelling joints',
+    'sakit saat jalan': 'painful walking',
+    'sulit berjalan': 'painful walking',
+    'kaku sendi': 'movement stiffness',
+    'sendi kaku': 'movement stiffness',
+    'leher kaku': 'stiff neck',
+    'otot lemah': 'muscle weakness',
 }
 
 def terjemahkan(teks_id):
